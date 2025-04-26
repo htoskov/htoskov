@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hristian Toskov</h1>
-<h3 align="center">A backend developer from Bulgaria looking for internship in web development, data scraping, data science or AI with 🐍Python.</h3>
+<h3 align="center">A backend developer from Bulgaria looking for internship in process automation, web sraping, data science or AI with 🐍Python.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
