@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hristian Toskov</h1>
-<h3 align="center">A backend developer from Bulgaria looking for internship in process automation, web sraping, data science or AI with 🐍Python.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">My hackerrank:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/htoskov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htoskov" height="30" width="40" /></a>
-<a href="https://fb.com/hristiantoskov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hristiantoskov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/htoskov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="htoskov" height="30" width="40" /></a>
 </p>
 
