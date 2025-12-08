@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htoskov" alt="htoskov" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 **Backend PHP / Laravel Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
