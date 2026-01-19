@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hristian</h1>
 <h3 align="center">Backend PHP / Laravel Developer</h3>
 <h3 align="center">Python Automation / Data Visualization and Manipulation</h3>
-
+I have worked on many additional projects, however most of them are under NDA or kept private due to client requirements. I’m happy to share more details about them in a conversation to explore whether any of the technologies used could be valuable for your needs. For any business inquiries, feel free to connect with me here on LinkedIn.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hristian-toskov-021831393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htoskov" height="30" width="40" /></a>
