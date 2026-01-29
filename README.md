@@ -16,7 +16,7 @@ Some of the areas I have worked in include:
 For any business inquiries, feel free to connect with me here on LinkedIn.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hristian-toskov-021831393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htoskov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hristian-toskov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htoskov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
